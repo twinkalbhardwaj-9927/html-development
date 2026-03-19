@@ -1,0 +1,32 @@
+/*text-align property*/
+h1{
+    text-align: center;
+}
+p{
+    text-align: right;
+}
+/*text-decoration property*/
+h1{
+    text-decoration: red underline;
+}
+a{
+    text-decoration: none;
+}
+
+/*font weight*/
+#first{
+    font-weight: 100;/*lighter*/
+}
+#second{
+    font-weight: 200; 
+}
+#third{
+    font-weight: 400;
+}
+#fourth{
+    font-weight: 900;/*bolder*/
+}
+
+/*font-family*/
+
+
