@@ -3,7 +3,7 @@ h1{
     text-align: center;
 }
 p{
-    text-align: right;
+    text-align: left;
 }
 /*text-decoration property*/
 h1{
@@ -28,5 +28,16 @@ a{
 }
 
 /*font-family*/
-
+#font{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#units{
+    font-size: 20px;
+}
+#height1{
+    line-height: 2px;
+}
+#transform{
+    text-transform: capitalize;
+}
 
